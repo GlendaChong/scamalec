@@ -5,6 +5,8 @@ import requests
 import os
 import telebot
 
+from dotenv import load_dotenv
+load_dotenv()
 
 # Enable logging
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
@@ -35,7 +37,7 @@ def daily_news(update: Update, context: CallbackContext) -> None:
 
 # Function to handle /start command
 def start(update: Update, context: CallbackContext) -> None:
-    update.message.reply_text('Hello! I will send you daily anti-scam news.')
+    update.message.reply_text('Hello! The bot should be working.')
 
 # Main function to set up the bot
 def main():
@@ -50,5 +52,5 @@ def main():
     updater.start_polling()
     updater.idle()
 
-if name == '__main__':
+if __name__ == '__main__':
     main()
