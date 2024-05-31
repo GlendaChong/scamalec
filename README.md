@@ -19,7 +19,7 @@ Send a piece of text to the bot to check how likely it is to be a scam. Our trai
 
 ### News
 
-Get the latest anti-scam news Click on next or previous to toggle between news.
+Get the latest anti-scam news. Click on next or previous to toggle between news.
 
 <img src="./images/news.png" alt="News" width="700"/>
 
@@ -103,3 +103,13 @@ Make sure you have the following installed:
 
 - **Privacy and Security**: Scam Alec respects your privacy and ensures that any data shared with the bot is not stored or used for any other purposes. Our goal is to educate and protect our users without compromising their security.
 - **Support and Feedback**: If you have any questions, need support, or want to provide feedback, please reach out to our support team via the Telegram channel.
+
+## Team Members
+- Glenda Chong Rui Ting [[LinkedIn](www.linkedin.com/in/glendachong) | [Github](https://github.com/GlendaChong)]
+- Mavis Cheng Zaixuan [[LinkedIn](https://www.linkedin.com/in/mavis-cheng) | [Github](https://github.com/mavisczx)]
+- Tay Ru Xin [[LinkedIn](https://www.linkedin.com/in/tay-ru-xin) | [Github](https://github.com/tayruxin)]
+- Tan Xin Li Terri [[LinkedIn](https://www.linkedin.com/in/territanxinli) | [Github](https://github.com/territxl)]
+
+Feel free to connect with us and let us know of any further improvements to this telegram bot. 
+
+
