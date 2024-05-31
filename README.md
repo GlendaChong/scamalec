@@ -15,25 +15,25 @@ Start the bot and see the available commands.
 
 Send a piece of text to the bot to check how likely it is to be a scam. Our trained bot will tell you the probability of that message being a scam!
 
-<img src="./images/checkscam.png" alt="Check Scam" width="300"/>
+<img src="./images/checkscam.png" alt="Check Scam" width="600"/>
 
 ### News
 
 Get the latest anti-scam news Click on next or previous to toggle between news.
 
-<img src="./images/news.png" alt="News" width="300"/>
+<img src="./images/news.png" alt="News" width="600"/>
 
 ### Real Stories
 
 Read real stories of individuals who have been scammed. Being scammed is more real that you think.
 
-<img src="./images/real_stories.png" alt="Real Stories" width="300"/>
+<img src="./images/realstories.png" alt="Real Stories" width="600"/>
 
 ### Cancel
 
 End the chat with the bot.
 
-<img src="./images/cancel.png" alt="Cancel" width="300"/>
+<img src="./images/cancel.png" alt="Cancel" width="600"/>
 
 ## Getting Started
 
