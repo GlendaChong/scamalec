@@ -3,7 +3,14 @@ from telegram import Update
 from telegram.ext import Updater, CommandHandler, CallbackContext, ConversationHandler, MessageHandler, Filters
 import requests
 import os
+<<<<<<< HEAD
 from transformers import pipeline
+=======
+import telebot
+
+from dotenv import load_dotenv
+load_dotenv()
+>>>>>>> 450104921ea0d364258d78bdd6c340895b7a45b5
 
 # Enable logging
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
@@ -41,6 +48,7 @@ classifier = pipeline(task="text-classification", model="phishbot/ScamLLM", top_
 
 # Function to handle /start command
 def start(update: Update, context: CallbackContext) -> None:
+<<<<<<< HEAD
     update.message.reply_text('Hello! Use /checkscam to check if a text is a scam or /news for the latest anti-scam news.')
 
 SCAM_TEXT = 1
@@ -65,6 +73,9 @@ def predict(text: str) -> str:
     # Map the labels to their meanings
     return model_outputs[0]
 
+=======
+    update.message.reply_text('Hello! The bot should be working.')
+>>>>>>> 450104921ea0d364258d78bdd6c340895b7a45b5
 
 # Main function to set up the bot
 def main():
@@ -90,4 +101,8 @@ def main():
     updater.idle()
 
 if __name__ == '__main__':
+<<<<<<< HEAD
     main()
+=======
+    main()
+>>>>>>> 450104921ea0d364258d78bdd6c340895b7a45b5
