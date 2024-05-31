@@ -105,7 +105,7 @@ Make sure you have the following installed:
 - **Support and Feedback**: If you have any questions, need support, or want to provide feedback, please reach out to our support team via the Telegram channel.
 
 ## Team Members
-- Glenda Chong Rui Ting [[LinkedIn](www.linkedin.com/in/glendachong) | [Github](https://github.com/GlendaChong)]
+- Glenda Chong Rui Ting [[LinkedIn](https://www.linkedin.com/in/glendachong) | [Github](https://github.com/GlendaChong)]
 - Mavis Cheng Zaixuan [[LinkedIn](https://www.linkedin.com/in/mavis-cheng) | [Github](https://github.com/mavisczx)]
 - Tay Ru Xin [[LinkedIn](https://www.linkedin.com/in/tay-ru-xin) | [Github](https://github.com/tayruxin)]
 - Tan Xin Li Terri [[LinkedIn](https://www.linkedin.com/in/territanxinli) | [Github](https://github.com/territxl)]
