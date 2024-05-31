@@ -9,31 +9,31 @@ Scam Alec, here to accompany you in this big bad world filled with scams from co
 
 Start the bot and see the available commands.
 
-<img src="./images/start.png" alt="Start Command" width="300"/>
+<img src="./images/start.png" alt="Start Command" width="700"/>
 
 ### Check Scam
 
 Send a piece of text to the bot to check how likely it is to be a scam. Our trained bot will tell you the probability of that message being a scam!
 
-<img src="./images/checkscam.png" alt="Check Scam" width="600"/>
+<img src="./images/checkscam.png" alt="Check Scam" width="700"/>
 
 ### News
 
 Get the latest anti-scam news Click on next or previous to toggle between news.
 
-<img src="./images/news.png" alt="News" width="600"/>
+<img src="./images/news.png" alt="News" width="700"/>
 
 ### Real Stories
 
 Read real stories of individuals who have been scammed. Being scammed is more real that you think.
 
-<img src="./images/realstories.png" alt="Real Stories" width="600"/>
+<img src="./images/realstories.png" alt="Real Stories" width="700"/>
 
 ### Cancel
 
 End the chat with the bot.
 
-<img src="./images/cancel.png" alt="Cancel" width="600"/>
+<img src="./images/cancel.png" alt="Cancel" width="700"/>
 
 ## Getting Started
 
